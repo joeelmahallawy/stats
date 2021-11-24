@@ -10,9 +10,6 @@ I'm a 3rd year software engineering student who likes to build cool projects in 
   
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeelmahallawy&show_icons=true&theme=radical)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=joeelmahallawy&theme=radical)](https://github.com/joeelmahallawy)
-
-
-[![Youssef's Trophies](https://github-profile-trophy.vercel.app/?username=joeelmahallawy&theme=radical&column=4&margin-w=6&margin-h=5&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
   
   <h1>Deployed projects:</h1>
 <h3>TZCities (<a href="https://tzcities.vercel.app/">Demo</a>)</h3>
